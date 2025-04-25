@@ -6,17 +6,18 @@ This repository collects all the projects and workflows in one place to navigate
 
 ### HLSLibs and FIR benchmark (1D)
 
-Matlab TBD
-
-[Catapult FIR project][catapult-fir-filter]
+- Matlab TBD
+- [Catapult project][catapult-fir-filter]
 
 ### Manual translation and Polar encoding (1A)
 
-TBD
+- Matlab TBD
+- [Catapult project][catapult-polar-coding]
 
 ### MATLAB Coder and Polar encoding (1B)
 
-TBD
+- Matlab TBD
+- [Catapult project][catapult-matlab-polar-coding]
 
 ## MATLAB to RTL with Stratus HLS
 
@@ -44,3 +45,5 @@ TBD
 
 <!-- References -->
 [catapult-fir-filter]:https://github.com/eersaa/catapult-fir-filter
+[catapult-matlab-polar-coding]:https://github.com/eersaa/catapult-matlab-polar-coding
+[catapult-polar-coding]:https://github.com/eersaa/catapult-polar-coding
