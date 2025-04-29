@@ -34,6 +34,7 @@ This repository collects all the projects and workflows in one place to navigate
 ### Manual translation and Polar encoding (3A)
 
 - [Matlab project][matlab-polar-coding#main]
+- [Xtensa Xplorer project][xtensa-polar-coding]
 
 ### MATLAB Coder and Polar encoding (3B)
 
@@ -64,3 +65,4 @@ This repository collects all the projects and workflows in one place to navigate
 [xtensa-fir-filter]:https://github.com/eersaa/xtensa-fir-filter
 [xtensa-matlab-polar-coding-double]:https://github.com/eersaa/xtensa-matlab-polar-coding-double
 [xtensa-matlab-polar-coding-int]:https://github.com/eersaa/xtensa-matlab-polar-coding-int
+[xtensa-polar-coding]:https://github.com/eersaa/xtensa-polar-coding
