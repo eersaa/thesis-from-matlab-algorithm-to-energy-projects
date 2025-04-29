@@ -37,8 +37,15 @@ This repository collects all the projects and workflows in one place to navigate
 
 ### MATLAB Coder and Polar encoding (3B)
 
-- [Matlab project][matlab-polar-coding#main] (integer datatypes)
-- [Matlab project][matlab-polar-coding#xtensa-double-datatypes] (double datatypes)
+#### Integer datatypes
+
+- [Matlab project][matlab-polar-coding#main]
+- [Matlab project]
+
+#### Double datatypes
+
+- [Matlab project][matlab-polar-coding#xtensa-double-datatypes]
+- [Xtensa Xplorer project][xtensa-matlab-polar-coding-double]
 
 ### HLSLibs and FIR benchmark (3D)
 
@@ -55,3 +62,4 @@ This repository collects all the projects and workflows in one place to navigate
 [matlab-polar-coding#xtensa-double-datatypes]:https://github.com/eersaa/matlab-polar-coding/tree/xtensa-double-datatypes
 [matlab-polar-coding#stratus-hls-binary]:https://github.com/eersaa/matlab-polar-coding/tree/stratus-hls-binary
 [xtensa-fir-filter]:https://github.com/eersaa/xtensa-fir-filter
+[xtensa-matlab-polar-coding-double]:https://github.com/eersaa/xtensa-matlab-polar-coding-double
