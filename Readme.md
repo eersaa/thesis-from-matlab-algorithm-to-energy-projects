@@ -43,6 +43,7 @@ This repository collects all the projects and workflows in one place to navigate
 ### HLSLibs and FIR benchmark (3D)
 
 - [Matlab project][matlab-fir-filter#main]
+- [Xtensa Xplorer project][xtensa-fir-filter]
 
 <!-- References -->
 [catapult-fir-filter]:https://github.com/eersaa/catapult-fir-filter
@@ -53,3 +54,4 @@ This repository collects all the projects and workflows in one place to navigate
 [matlab-polar-coding#main]:https://github.com/eersaa/matlab-polar-coding/tree/main
 [matlab-polar-coding#xtensa-double-datatypes]:https://github.com/eersaa/matlab-polar-coding/tree/xtensa-double-datatypes
 [matlab-polar-coding#stratus-hls-binary]:https://github.com/eersaa/matlab-polar-coding/tree/stratus-hls-binary
+[xtensa-fir-filter]:https://github.com/eersaa/xtensa-fir-filter
