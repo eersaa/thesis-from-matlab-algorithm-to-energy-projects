@@ -40,7 +40,7 @@ This repository collects all the projects and workflows in one place to navigate
 #### Integer datatypes
 
 - [Matlab project][matlab-polar-coding#main]
-- [Matlab project]
+- [Xtensa Xplorer project][xtensa-matlab-polar-coding-int]
 
 #### Double datatypes
 
@@ -63,3 +63,4 @@ This repository collects all the projects and workflows in one place to navigate
 [matlab-polar-coding#stratus-hls-binary]:https://github.com/eersaa/matlab-polar-coding/tree/stratus-hls-binary
 [xtensa-fir-filter]:https://github.com/eersaa/xtensa-fir-filter
 [xtensa-matlab-polar-coding-double]:https://github.com/eersaa/xtensa-matlab-polar-coding-double
+[xtensa-matlab-polar-coding-int]:https://github.com/eersaa/xtensa-matlab-polar-coding-int
